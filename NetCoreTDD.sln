@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreTDD.API", "NetCoreTDD.API\NetCoreTDD.API.csproj", "{1A5E7482-BA21-4C8C-BA31-87290486F0EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreTDD.UnitTests", "NetCoreTDD.UnitTests\NetCoreTDD.UnitTests.csproj", "{A5C0B5A5-3CF2-47AE-9F84-3E11789D6DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5E7482-BA21-4C8C-BA31-87290486F0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5E7482-BA21-4C8C-BA31-87290486F0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5E7482-BA21-4C8C-BA31-87290486F0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5E7482-BA21-4C8C-BA31-87290486F0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C0B5A5-3CF2-47AE-9F84-3E11789D6DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C0B5A5-3CF2-47AE-9F84-3E11789D6DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C0B5A5-3CF2-47AE-9F84-3E11789D6DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C0B5A5-3CF2-47AE-9F84-3E11789D6DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
